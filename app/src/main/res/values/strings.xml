@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Study_app</string>
+    <string name="text_two">Фраза сегодня:</string>
+    <string name="back">Back</string>
+    <string name="lab_2" translatable="false">LAB 2</string>
+
+</resources>
